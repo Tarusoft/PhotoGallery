@@ -1,0 +1,16 @@
+Acceptance Criteria 
+
+
+* Create a webpage in .net. 
+
+* MVC is preferred. 
+
+* Display the attached images in a carousel. 
+
+* A title should display the image name.
+
+** User can click next or previous buttons to view the next or previous images. 
+
+* Images can be stored local file system or a database. 
+
+* Used the attached images.
